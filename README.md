@@ -183,11 +183,6 @@ For production, consider Soketi or Pusher instead of local WebSockets.
 
 PHP 7.4 + Laravel 8 requires WebSockets v1.x stable release.
 
-👨‍💻 License
-
-MIT License © 2025
-
-
 ---
 
 This **single README** combines:  
@@ -200,6 +195,4 @@ This **single README** combines:
 
 ---
 
-If you want, I can also **add a “Quick Start Commands” cheat sheet** at the top, so a new developer can set up the project in **5 commands** — very handy for GitHub.  
 
-Do you want me to do that next?
